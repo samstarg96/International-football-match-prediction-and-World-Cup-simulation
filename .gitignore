@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+03 Temp/
+# Keep only the small final results in Git. All other generated files stay local.
+04 Output/*
+!04 Output/model_and_baseline_comparison.csv
+!04 Output/model_and_baseline_comparison.png
+!04 Output/selected_model_calibration.csv
+!04 Output/selected_model_calibration.png
+!04 Output/monte_carlo/
+04 Output/monte_carlo/*
+!04 Output/monte_carlo/world_cup_2026_win_shares_logit_10000.csv
+!04 Output/monte_carlo/world_cup_2026_win_shares_logit_10000.png
+!04 Output/monte_carlo/world_cup_2026_stage_reach_shares_logit_10000.csv
+
+# Local exploratory notebooks are kept outside the public workflow.
+02 Scripts/2*.ipynb
+
+# Files supplied with the upstream dataset that this workflow does not use.
+01 Input/.github/
+01 Input/README.md
+01 Input/former_names.csv
+01 Input/shootouts.csv

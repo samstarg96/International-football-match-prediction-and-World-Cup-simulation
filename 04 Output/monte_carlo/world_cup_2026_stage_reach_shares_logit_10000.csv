@@ -1,0 +1,337 @@
+team,stage,times_reached,share_reached,fifa_rank
+Mexico,group_stage,10000,1.0,15
+Mexico,round_of_32,9819,0.9819,15
+Mexico,round_of_16,7797,0.7797,15
+Mexico,quarterfinal,4791,0.4791,15
+Mexico,semifinal,2847,0.2847,15
+Mexico,final,1400,0.14,15
+Mexico,champion,633,0.0633,15
+South Africa,group_stage,10000,1.0,60
+South Africa,round_of_32,2641,0.2641,60
+South Africa,round_of_16,464,0.0464,60
+South Africa,quarterfinal,78,0.0078,60
+South Africa,semifinal,9,0.0009,60
+South Africa,final,1,0.0001,60
+South Africa,champion,0,0.0,60
+South Korea,group_stage,10000,1.0,25
+South Korea,round_of_32,8030,0.803,25
+South Korea,round_of_16,3452,0.3452,25
+South Korea,quarterfinal,1126,0.1126,25
+South Korea,semifinal,291,0.0291,25
+South Korea,final,70,0.007,25
+South Korea,champion,14,0.0014,25
+Czech Republic,group_stage,10000,1.0,41
+Czech Republic,round_of_32,5976,0.5976,41
+Czech Republic,round_of_16,1850,0.185,41
+Czech Republic,quarterfinal,494,0.0494,41
+Czech Republic,semifinal,80,0.008,41
+Czech Republic,final,9,0.0009,41
+Czech Republic,champion,1,0.0001,41
+Canada,group_stage,10000,1.0,30
+Canada,round_of_32,9773,0.9773,30
+Canada,round_of_16,7054,0.7054,30
+Canada,quarterfinal,3733,0.3733,30
+Canada,semifinal,1599,0.1599,30
+Canada,final,637,0.0637,30
+Canada,champion,233,0.0233,30
+Bosnia and Herzegovina,group_stage,10000,1.0,65
+Bosnia and Herzegovina,round_of_32,3703,0.3703,65
+Bosnia and Herzegovina,round_of_16,657,0.0657,65
+Bosnia and Herzegovina,quarterfinal,122,0.0122,65
+Bosnia and Herzegovina,semifinal,5,0.0005,65
+Bosnia and Herzegovina,final,0,0.0,65
+Bosnia and Herzegovina,champion,0,0.0,65
+Qatar,group_stage,10000,1.0,55
+Qatar,round_of_32,2008,0.2008,55
+Qatar,round_of_16,194,0.0194,55
+Qatar,quarterfinal,24,0.0024,55
+Qatar,semifinal,0,0.0,55
+Qatar,final,0,0.0,55
+Qatar,champion,0,0.0,55
+Switzerland,group_stage,10000,1.0,19
+Switzerland,round_of_32,9591,0.9591,19
+Switzerland,round_of_16,6236,0.6236,19
+Switzerland,quarterfinal,2745,0.2745,19
+Switzerland,semifinal,1031,0.1031,19
+Switzerland,final,369,0.0369,19
+Switzerland,champion,120,0.012,19
+Brazil,group_stage,10000,1.0,6
+Brazil,round_of_32,9582,0.9582,6
+Brazil,round_of_16,6280,0.628,6
+Brazil,quarterfinal,3798,0.3798,6
+Brazil,semifinal,1964,0.1964,6
+Brazil,final,822,0.0822,6
+Brazil,champion,352,0.0352,6
+Morocco,group_stage,10000,1.0,8
+Morocco,round_of_32,9046,0.9046,8
+Morocco,round_of_16,4886,0.4886,8
+Morocco,quarterfinal,2509,0.2509,8
+Morocco,semifinal,1149,0.1149,8
+Morocco,final,392,0.0392,8
+Morocco,champion,128,0.0128,8
+Haiti,group_stage,10000,1.0,83
+Haiti,round_of_32,1981,0.1981,83
+Haiti,round_of_16,308,0.0308,83
+Haiti,quarterfinal,52,0.0052,83
+Haiti,semifinal,9,0.0009,83
+Haiti,final,0,0.0,83
+Haiti,champion,0,0.0,83
+Scotland,group_stage,10000,1.0,43
+Scotland,round_of_32,5861,0.5861,43
+Scotland,round_of_16,1691,0.1691,43
+Scotland,quarterfinal,487,0.0487,43
+Scotland,semifinal,139,0.0139,43
+Scotland,final,31,0.0031,43
+Scotland,champion,5,0.0005,43
+United States,group_stage,10000,1.0,16
+United States,round_of_32,7209,0.7209,16
+United States,round_of_16,3876,0.3876,16
+United States,quarterfinal,1445,0.1445,16
+United States,semifinal,341,0.0341,16
+United States,final,104,0.0104,16
+United States,champion,29,0.0029,16
+Paraguay,group_stage,10000,1.0,40
+Paraguay,round_of_32,6354,0.6354,40
+Paraguay,round_of_16,3247,0.3247,40
+Paraguay,quarterfinal,1143,0.1143,40
+Paraguay,semifinal,354,0.0354,40
+Paraguay,final,99,0.0099,40
+Paraguay,champion,27,0.0027,40
+Australia,group_stage,10000,1.0,27
+Australia,round_of_32,6702,0.6702,27
+Australia,round_of_16,3359,0.3359,27
+Australia,quarterfinal,1285,0.1285,27
+Australia,semifinal,368,0.0368,27
+Australia,final,111,0.0111,27
+Australia,champion,26,0.0026,27
+Turkey,group_stage,10000,1.0,22
+Turkey,round_of_32,7797,0.7797,22
+Turkey,round_of_16,4725,0.4725,22
+Turkey,quarterfinal,2038,0.2038,22
+Turkey,semifinal,607,0.0607,22
+Turkey,final,236,0.0236,22
+Turkey,champion,53,0.0053,22
+Germany,group_stage,10000,1.0,10
+Germany,round_of_32,9519,0.9519,10
+Germany,round_of_16,5093,0.5093,10
+Germany,quarterfinal,2141,0.2141,10
+Germany,semifinal,857,0.0857,10
+Germany,final,270,0.027,10
+Germany,champion,77,0.0077,10
+Curaçao,group_stage,10000,1.0,82
+Curaçao,round_of_32,1112,0.1112,82
+Curaçao,round_of_16,94,0.0094,82
+Curaçao,quarterfinal,3,0.0003,82
+Curaçao,semifinal,0,0.0,82
+Curaçao,final,0,0.0,82
+Curaçao,champion,0,0.0,82
+Ivory Coast,group_stage,10000,1.0,34
+Ivory Coast,round_of_32,6965,0.6965,34
+Ivory Coast,round_of_16,1709,0.1709,34
+Ivory Coast,quarterfinal,411,0.0411,34
+Ivory Coast,semifinal,71,0.0071,34
+Ivory Coast,final,9,0.0009,34
+Ivory Coast,champion,2,0.0002,34
+Ecuador,group_stage,10000,1.0,23
+Ecuador,round_of_32,9642,0.9642,23
+Ecuador,round_of_16,5885,0.5885,23
+Ecuador,quarterfinal,3024,0.3024,23
+Ecuador,semifinal,1486,0.1486,23
+Ecuador,final,550,0.055,23
+Ecuador,champion,192,0.0192,23
+Netherlands,group_stage,10000,1.0,7
+Netherlands,round_of_32,9509,0.9509,7
+Netherlands,round_of_16,5125,0.5125,7
+Netherlands,quarterfinal,2911,0.2911,7
+Netherlands,semifinal,1366,0.1366,7
+Netherlands,final,445,0.0445,7
+Netherlands,champion,152,0.0152,7
+Japan,group_stage,10000,1.0,18
+Japan,round_of_32,9163,0.9163,18
+Japan,round_of_16,4130,0.413,18
+Japan,quarterfinal,2062,0.2062,18
+Japan,semifinal,846,0.0846,18
+Japan,final,267,0.0267,18
+Japan,champion,93,0.0093,18
+Sweden,group_stage,10000,1.0,38
+Sweden,round_of_32,4769,0.4769,38
+Sweden,round_of_16,753,0.0753,38
+Sweden,quarterfinal,147,0.0147,38
+Sweden,semifinal,26,0.0026,38
+Sweden,final,1,0.0001,38
+Sweden,champion,0,0.0,38
+Tunisia,group_stage,10000,1.0,44
+Tunisia,round_of_32,3655,0.3655,44
+Tunisia,round_of_16,523,0.0523,44
+Tunisia,quarterfinal,95,0.0095,44
+Tunisia,semifinal,17,0.0017,44
+Tunisia,final,2,0.0002,44
+Tunisia,champion,1,0.0001,44
+Belgium,group_stage,10000,1.0,9
+Belgium,round_of_32,9165,0.9165,9
+Belgium,round_of_16,5869,0.5869,9
+Belgium,quarterfinal,2916,0.2916,9
+Belgium,semifinal,819,0.0819,9
+Belgium,final,334,0.0334,9
+Belgium,champion,100,0.01,9
+Egypt,group_stage,10000,1.0,29
+Egypt,round_of_32,6866,0.6866,29
+Egypt,round_of_16,2325,0.2325,29
+Egypt,quarterfinal,563,0.0563,29
+Egypt,semifinal,111,0.0111,29
+Egypt,final,23,0.0023,29
+Egypt,champion,2,0.0002,29
+Iran,group_stage,10000,1.0,21
+Iran,round_of_32,8351,0.8351,21
+Iran,round_of_16,4154,0.4154,21
+Iran,quarterfinal,1499,0.1499,21
+Iran,semifinal,384,0.0384,21
+Iran,final,111,0.0111,21
+Iran,champion,27,0.0027,21
+New Zealand,group_stage,10000,1.0,85
+New Zealand,round_of_32,2804,0.2804,85
+New Zealand,round_of_16,637,0.0637,85
+New Zealand,quarterfinal,100,0.01,85
+New Zealand,semifinal,11,0.0011,85
+New Zealand,final,2,0.0002,85
+New Zealand,champion,0,0.0,85
+Spain,group_stage,10000,1.0,2
+Spain,round_of_32,9974,0.9974,2
+Spain,round_of_16,8459,0.8459,2
+Spain,quarterfinal,7034,0.7034,2
+Spain,semifinal,6103,0.6103,2
+Spain,final,4864,0.4864,2
+Spain,champion,3483,0.3483,2
+Cape Verde,group_stage,10000,1.0,69
+Cape Verde,round_of_32,1787,0.1787,69
+Cape Verde,round_of_16,161,0.0161,69
+Cape Verde,quarterfinal,22,0.0022,69
+Cape Verde,semifinal,0,0.0,69
+Cape Verde,final,0,0.0,69
+Cape Verde,champion,0,0.0,69
+Saudi Arabia,group_stage,10000,1.0,61
+Saudi Arabia,round_of_32,3134,0.3134,61
+Saudi Arabia,round_of_16,378,0.0378,61
+Saudi Arabia,quarterfinal,70,0.007,61
+Saudi Arabia,semifinal,8,0.0008,61
+Saudi Arabia,final,0,0.0,61
+Saudi Arabia,champion,0,0.0,61
+Uruguay,group_stage,10000,1.0,17
+Uruguay,round_of_32,9377,0.9377,17
+Uruguay,round_of_16,3421,0.3421,17
+Uruguay,quarterfinal,1892,0.1892,17
+Uruguay,semifinal,865,0.0865,17
+Uruguay,final,360,0.036,17
+Uruguay,champion,113,0.0113,17
+France,group_stage,10000,1.0,1
+France,round_of_32,9566,0.9566,1
+France,round_of_16,7585,0.7585,1
+France,quarterfinal,5374,0.5374,1
+France,semifinal,3324,0.3324,1
+France,final,1495,0.1495,1
+France,champion,705,0.0705,1
+Senegal,group_stage,10000,1.0,14
+Senegal,round_of_32,7446,0.7446,14
+Senegal,round_of_16,3356,0.3356,14
+Senegal,quarterfinal,1348,0.1348,14
+Senegal,semifinal,387,0.0387,14
+Senegal,final,104,0.0104,14
+Senegal,champion,23,0.0023,14
+Iraq,group_stage,10000,1.0,57
+Iraq,round_of_32,2168,0.2168,57
+Iraq,round_of_16,450,0.045,57
+Iraq,quarterfinal,82,0.0082,57
+Iraq,semifinal,11,0.0011,57
+Iraq,final,3,0.0003,57
+Iraq,champion,0,0.0,57
+Norway,group_stage,10000,1.0,31
+Norway,round_of_32,8393,0.8393,31
+Norway,round_of_16,4894,0.4894,31
+Norway,quarterfinal,2562,0.2562,31
+Norway,semifinal,1091,0.1091,31
+Norway,final,380,0.038,31
+Norway,champion,102,0.0102,31
+Argentina,group_stage,10000,1.0,3
+Argentina,round_of_32,9859,0.9859,3
+Argentina,round_of_16,7094,0.7094,3
+Argentina,quarterfinal,5930,0.593,3
+Argentina,semifinal,4446,0.4446,3
+Argentina,final,3094,0.3094,3
+Argentina,champion,1853,0.1853,3
+Algeria,group_stage,10000,1.0,28
+Algeria,round_of_32,7143,0.7143,28
+Algeria,round_of_16,1981,0.1981,28
+Algeria,quarterfinal,795,0.0795,28
+Algeria,semifinal,223,0.0223,28
+Algeria,final,61,0.0061,28
+Algeria,champion,18,0.0018,28
+Austria,group_stage,10000,1.0,24
+Austria,round_of_32,6828,0.6828,24
+Austria,round_of_16,1478,0.1478,24
+Austria,quarterfinal,528,0.0528,24
+Austria,semifinal,133,0.0133,24
+Austria,final,32,0.0032,24
+Austria,champion,2,0.0002,24
+Jordan,group_stage,10000,1.0,63
+Jordan,round_of_32,2955,0.2955,63
+Jordan,round_of_16,480,0.048,63
+Jordan,quarterfinal,112,0.0112,63
+Jordan,semifinal,18,0.0018,63
+Jordan,final,4,0.0004,63
+Jordan,champion,0,0.0,63
+Portugal,group_stage,10000,1.0,5
+Portugal,round_of_32,9268,0.9268,5
+Portugal,round_of_16,6203,0.6203,5
+Portugal,quarterfinal,3115,0.3115,5
+Portugal,semifinal,1488,0.1488,5
+Portugal,final,740,0.074,5
+Portugal,champion,286,0.0286,5
+DR Congo,group_stage,10000,1.0,46
+DR Congo,round_of_32,3773,0.3773,46
+DR Congo,round_of_16,881,0.0881,46
+DR Congo,quarterfinal,116,0.0116,46
+DR Congo,semifinal,20,0.002,46
+DR Congo,final,5,0.0005,46
+DR Congo,champion,0,0.0,46
+Uzbekistan,group_stage,10000,1.0,50
+Uzbekistan,round_of_32,4092,0.4092,50
+Uzbekistan,round_of_16,1152,0.1152,50
+Uzbekistan,quarterfinal,249,0.0249,50
+Uzbekistan,semifinal,62,0.0062,50
+Uzbekistan,final,6,0.0006,50
+Uzbekistan,champion,1,0.0001,50
+Colombia,group_stage,10000,1.0,13
+Colombia,round_of_32,9372,0.9372,13
+Colombia,round_of_16,6517,0.6517,13
+Colombia,quarterfinal,3354,0.3354,13
+Colombia,semifinal,1783,0.1783,13
+Colombia,final,991,0.0991,13
+Colombia,champion,427,0.0427,13
+England,group_stage,10000,1.0,4
+England,round_of_32,9844,0.9844,4
+England,round_of_16,7223,0.7223,4
+England,quarterfinal,4102,0.4102,4
+England,semifinal,2676,0.2676,4
+England,final,1376,0.1376,4
+England,champion,674,0.0674,4
+Croatia,group_stage,10000,1.0,11
+Croatia,round_of_32,9067,0.9067,11
+Croatia,round_of_16,4044,0.4044,11
+Croatia,quarterfinal,1173,0.1173,11
+Croatia,semifinal,486,0.0486,11
+Croatia,final,173,0.0173,11
+Croatia,champion,43,0.0043,11
+Ghana,group_stage,10000,1.0,74
+Ghana,round_of_32,1323,0.1323,74
+Ghana,round_of_16,114,0.0114,74
+Ghana,quarterfinal,3,0.0003,74
+Ghana,semifinal,0,0.0,74
+Ghana,final,0,0.0,74
+Ghana,champion,0,0.0,74
+Panama,group_stage,10000,1.0,33
+Panama,round_of_32,7038,0.7038,33
+Panama,round_of_16,1756,0.1756,33
+Panama,quarterfinal,397,0.0397,33
+Panama,semifinal,89,0.0089,33
+Panama,final,17,0.0017,33
+Panama,champion,3,0.0003,33
